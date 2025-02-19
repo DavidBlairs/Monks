@@ -2,6 +2,8 @@
 
 This is an R Shiny dashboard designed to visualise statistical modelling data. It provides interactive plots and a data table, allowing users to explore model results efficiently.  
 
+<img width="1673" alt="image" src="https://github.com/user-attachments/assets/b8f6e4f5-6b12-484d-b977-5ecdd28e3f1c" />
+
 ## **Features**  
 - **Three interactive ggplot visualisations**, each with its own filtering options.  
 - **Data table (DT) with filters**, including a **calculated ROI column**.  
